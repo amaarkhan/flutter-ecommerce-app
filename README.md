@@ -70,7 +70,7 @@ lib/
 For feedback or inquiries:
 
 - GitHub: [@amaarkhan](https://github.com/amaarkhan)
-- Email: `your-email@example.com`
+- Email: `amaarkhan25@gmail.com`
 
 ---
 
